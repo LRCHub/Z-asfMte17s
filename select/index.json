@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DEPARTURES(SUNSHINE REMIX)",
+  "base_artist": "globe",
+  "createdAt": "2026-01-11T09:10:45.061505Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DEPARTURES (Dub's Arrival Remix)",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/pl_01_DEPARTURES_(Dub's_Arrival_Remix)_globe.txt"
+    }
+  ]
+}
